@@ -1,6 +1,5 @@
 # Advent of Code - Day 1
 
-
 Collect stars by solving puzzles. Two puzzles will be made available on each day in the Advent calendar; the second puzzle is unlocked when you complete the first. Each puzzle grants one star. Good luck!
 
 ## Part A
@@ -24,6 +23,7 @@ We are given a list of calories like so:
 10000
         # The fifth Elf is carrying one food item with 10000 Calories.
 ```
+
 This represents the food carried by five Elves. Each line is a food item. Everything surrounded in a blank line is a new elf's inventory.
 
 Find the Elf carrying the most Calories. How many total Calories is that Elf carrying?
@@ -33,8 +33,3 @@ Answer = 69693
 ## Part B
 
 Find the top three Elves carrying the most Calories. How many Calories are those Elves carrying in total?
-
-# Solution.
-
-First, I want to read the text file into a Pandas dataframe for speedy processing.
-I can then perform row operations on the dataframe to easily sort and aggregate values, for BOTH parts.

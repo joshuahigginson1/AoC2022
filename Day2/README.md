@@ -52,9 +52,10 @@ In this example, if you were to follow the strategy guide, you would get a total
 
 What would your total score be if everything goes exactly according to your strategy guide?
 
-# Part B
+## Part B
 
 Now, the second column says how the round needs to end:
+
 - X means you need to lose.
 - Y means you need to end the round in a draw.
 - and Z means you need to win.
