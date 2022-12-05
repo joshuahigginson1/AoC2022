@@ -1,0 +1,8 @@
+T,_,D,_,_,L,_,_,_
+R,_,S,G,_,P,_,_,H
+G,_,H,W,_,R,L,_,P
+W,_,G,F,H,S,M,_,L
+Q,_,V,B,J,H,N,R,N
+M,R,R,P,M,T,H,Q,C
+F,F,Z,H,S,Z,T,D,S
+P,H,P,Q,P,M,P,F,D
